@@ -1,6 +1,7 @@
 # hackerthonproject
 
 1. Goals of the project
+Professors more than ever depend on the online resources and tools provided to them. Since so much work is still done remotely struggling students can be easily left unnoticed. To help professors deal with this we decided to add an additional page to their Canvas that focuses on helping the class and students. Our goal with this is to keep professors connected with the class by providing them easy access information about how the class is doing as a whole and individually.
 
 2. Desired user experience
 
